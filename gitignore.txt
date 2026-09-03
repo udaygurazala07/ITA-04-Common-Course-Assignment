@@ -1,0 +1,5 @@
+reports/*.csv
+reports/figures/
+.Rhistory
+.RData
+.Ruserdata
