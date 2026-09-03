@@ -1,0 +1,17 @@
+product_id,product_name,category,price,stock
+E01,SwiftBook Air 13,Electronics,54999,6
+E02,ClearSound Buds Pro,Electronics,2499,22
+E03,PixelView Monitor 22,Electronics,12999,5
+E04,ChargeMax Power Bank,Electronics,1799,30
+F01,UrbanWeave T-Shirt,Fashion,899,35
+F02,StrideFit Sneakers,Fashion,2499,7
+F03,DenimEdge Jeans,Fashion,1599,25
+F04,ClassicFit Jacket,Fashion,3499,18
+H01,FreshBrew Coffee Maker,Home & Kitchen,3299,15
+H02,GlowLite Study Lamp,Home & Kitchen,1299,4
+H03,EasyCook Air Fryer,Home & Kitchen,5999,12
+H04,ChopEase Blender,Home & Kitchen,2899,6
+B01,InkWell Notebook Set,Books & Stationery,399,40
+B02,CodeCraft Algorithms,Books & Stationery,799,20
+B03,Campus Exam Pack,Books & Stationery,599,28
+B04,Research File Kit,Books & Stationery,299,50
